@@ -92,7 +92,7 @@ Taking the importance of video documentation into account, the video annotation 
 
 ```python jdh={"module": "object", "object": {"source": ["A MemoRekall Capsule that tracks the creative process of Adrien M & Claire B's production of Hakana\u00ef. Capsule created by Clarisse Bardiot, 2016."]}} tags=["figure-iframe-*"]
 from IPython.display import IFrame
-IFrame('https://project.memorekall.com/en/capsule/preview/hakanai-amcb', width='100%', height='422')
+IFrame('https://web.archive.org/web/20250331101526/https://project.memorekall.com/en/capsule/preview/hakanai-amcb', width='100%', height='422')
 ```
 
 <!-- #region tags=["hermeneutics"] -->
