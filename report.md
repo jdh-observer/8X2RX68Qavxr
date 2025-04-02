@@ -15,7 +15,7 @@ code: 8
 ## Kernel Checks: 
 
 > [!CAUTION]
- > Error: Python versions don't match. The notebook is using **python-3.7.10**, when **python-3.7** is required.
+ > Error: Python versions don't match. The notebook is using **python-3.12.3**, when **python-3.7** is required.
 
 > [!TIP]
  > Try changing **runtime.txt** to resolve the error above.
@@ -27,7 +27,7 @@ code: 8
 - Table found in output of cell 35
 > First words of input cell: import pandas as pd from
 
-Total output size: 982.77 KB
+Total output size: 982.82 KB
 Total number of images: 5
 Total number of tables: 1
 Total number of audios: 1
@@ -707,30 +707,13 @@ No JavaScript code found in output cells.
 ### Check URLs
 
 
-> [!CAUTION]
-> **Invalid URLs are present, please review the referenced URLs list.**
-
-**Invalid URLs (404 - 4):**
-
-
-> [!WARNING]
-> **Invalid URL (404):** https://arvest.tetras-libre.fr/
-
-> [!WARNING]
-> **Invalid URL (404):** https://github.com/SCENE-CE/mirador-video
-
-> [!WARNING]
-> **Invalid URL (404):** https://github.com/SCENE-CE/mirador-annotation-editor-video
-
-> [!WARNING]
-> **Invalid URL (404):** https://github.com/SCENE-CE/mirador-multi-user
-
-**Impossible to verify (non-404 error code - 19):**
+**Impossible to verify (non-404 error code - 21):**
 
 Invalid URL (Other - 301): https://orcid.org/sites/default/files/images/orcid_16x16.png
+Invalid URL (Other - 403): https://distantviewing.org/
 Invalid URL (Other - 403): https://www.europeana.eu
-Invalid URL (Other - 302): https://gitlab.tetras-libre.fr/iiif/POC-mirador
 Invalid URL (Other - None): https://website1.com
+Invalid URL (Other - None): https://videonotes.net/
 Invalid URL (Other - 530): https://www.vibby.com/
 Invalid URL (Other - 403): https://foundation.mozilla.org/en/artifacts/popcorn-maker/
 Invalid URL (Other - 302): https://hihaho.com/
@@ -739,33 +722,34 @@ Invalid URL (Other - 308): https://celluloid.huma-num.fr/
 Invalid URL (Other - None): https://www.vialogues.com/
 Invalid URL (Other - None): https://motion-notes.di.fct.unl.pt/
 Invalid URL (Other - 403): https://pro.europeana.eu/page/enhanced-unified-playout-service
+Invalid URL (Other - None): https://kinolab.org/
 Invalid URL (Other - 406): https://geomedialab.org/atlascine.html
 Invalid URL (Other - None): https://etalk.vital-it.ch/
 Invalid URL (Other - 403): https://www.4science.com/dspace-glam/
 Invalid URL (Other - 406): https://prezi.com/
 Invalid URL (Other - 308): https://www.loom.com/fr
 Invalid URL (Other - 405): https://colab.research.google.com/
-Invalid URL (Other - 301): https://heuristnetwork.org/
+Invalid URL (Other - 403): https://heuristnetwork.org/
 
 > [!TIP]
 > Even if some of the urls listed above don't seem to be broken, try to replace them with the valid ones as they might become unavailable soon.
 
 
-**Valid URLs (200 - 60):**
+**Valid URLs (200 - 62):**
 
 2. https://licensebuttons.net/l/by/4.0/88x31.png
+3. https://arvest.app/en
 4. http://www.rekall.fr/
 5. https://memorekall.com/en/
 6. https://www.docam.ca
 7. https://www.buzzinglight.com/
-8. https://project.memorekall.com/en/capsule/preview/hakanai-amcb
+8. https://web.archive.org/web/20250331101526/https://project.memorekall.com/en/capsule/preview/hakanai-amcb
 9. https://www.flucoma.org/
-10. https://distantviewing.org/
 11. https://dansophie.hypotheses.org
 12. https://www.w3.org/TR/annotation-model/
 13. https://iiif.io/
 15. https://github.com/ProjectMirador/mirador
-18. https://videonotes.net/
+16. https://arvest.app/en/community/projects/coeso
 20. https://yinote.co/
 21. https://www.timeline.ly/
 22. https://www.verse.com/
@@ -777,7 +761,6 @@ Invalid URL (Other - 301): https://heuristnetwork.org/
 33. https://medialab.sciencespo.fr/en/tools/dicto/
 34. https://go.coachseye.com/retirement/
 37. https://jarvis.playment.io/
-38. https://kinolab.org/
 39. https://omeka.org/
 40. https://rclmediate.lib.rochester.edu/
 41. https://mediaecology.dartmouth.edu/sat/
@@ -799,6 +782,9 @@ Invalid URL (Other - 301): https://heuristnetwork.org/
 62. https://av.tib.eu/
 63. https://mediasuite.clariah.nl/
 64. https://iiif.io/api/presentation/3.0/
+65. https://github.com/ARVEST-APP/mirador-video
+66. https://github.com/ARVEST-APP/mirador-annotation-editor-video
+67. https://github.com/ARVEST-APP/mirador-multi-user
 68. https://www.djangoproject.com/
 69. https://joinpeertube.org/
 70. https://github.com/arvest-data-in-context/ml-notebooks
@@ -811,6 +797,6 @@ Invalid URL (Other - 301): https://heuristnetwork.org/
 79. https://coeso.hypotheses.org/498
 80. https://github.com/arvest-data-in-context/COESO-collaborative-analytics/blob/main/Data/boullier-pidoux-assessment.pdf
 81. https://github.com/arvest-data-in-context/COESO-Collaborative-Analytics/blob/main/Appendix/2-Composite-Typology-Visualization-Data.json
-82. https://coeso.tetras-libre.fr/data/coeso-deliverable/c41b0c91-f735-41fa-83f0-d9f836bb9ca1.json
-83. https://coeso.tetras-libre.fr/
+82. https://resource.arvest.app/327e647289177d93de23c504b2ece3fd91bbcec2/c41b0c91-f735-41fa-83f0-d9f836bb9ca1.json
+83. https://workspace.arvest.app/mirador/1834a259897721d2c76a1fb0553f7e1fd19d4d3a/workspace.json
 
