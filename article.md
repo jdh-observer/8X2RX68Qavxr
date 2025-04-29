@@ -30,7 +30,7 @@ Roles: Conceptualization, Data Curation, Formal Analysis, Supervision, Software,
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### David Rouquet [![![https://orcid.org/0000-0002-2471-8514](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-2471-8514)
+### David Rouquet [![https://orcid.org/0000-0002-2471-8514](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-2471-8514)
 Tetras Libre
 Role: Software
 <!-- #endregion -->
